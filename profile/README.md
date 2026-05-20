@@ -3,73 +3,61 @@
 </div>
 
 <p align="center">
-  <a href="https://t.me/SayaProject"><img src="https://img.shields.io/badge/TELEGRAM-@SayaProject-010409?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" alt="Telegram @SayaProject" /></a>
-  <a href="https://t.me/Sayafq"><img src="https://img.shields.io/badge/CONTACT-@Sayafq-010409?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" alt="Contact @Sayafq" /></a>
-  <a href="https://github.com/IFlexElite"><img src="https://img.shields.io/badge/GITHUB_SUPPORT-IFlexElite-010409?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub support IFlexElite" /></a>
+  <a href="https://t.me/SayaProject"><img src="https://raw.githubusercontent.com/SayaProject/.github/main/profile/assets/badge-telegram.svg" alt="Telegram @SayaProject" height="46" /></a>
+  <a href="https://t.me/Sayafq"><img src="https://raw.githubusercontent.com/SayaProject/.github/main/profile/assets/badge-contact.svg" alt="Contact @Sayafq" height="46" /></a>
+  <a href="https://github.com/IFlexElite"><img src="https://raw.githubusercontent.com/SayaProject/.github/main/profile/assets/badge-support.svg" alt="GitHub support IFlexElite" height="46" /></a>
 </p>
 
----
+<h2 align="center">Modern Telegram Tools, APIs, And Support</h2>
 
-<h2 align="center">Know About SayaProject</h2>
+<p align="center">
+  SayaProject is the public home for Telegram-first projects, bot utilities, API experiments, and support resources.
+  Use the links above for the channel, direct contact, and GitHub support.
+</p>
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <h3>Official Project Hub</h3>
-      <p>
-        SayaProject is the organization space for Telegram tools, bot projects, API work, and support resources.
-        This profile keeps the public contact links clean and easy to reach.
-      </p>
-      <p>
-        For Telegram updates use <a href="https://t.me/SayaProject"><b>@SayaProject</b></a>.<br />
-        For direct contact use <a href="https://t.me/Sayafq"><b>@Sayafq</b></a>.<br />
-        For GitHub support use <a href="https://github.com/IFlexElite"><b>IFlexElite</b></a>.
-      </p>
-    </td>
-    <td width="42%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=IFlexElite&theme=github_dark&hide_border=true&show_icons=true&rank_icon=github" alt="IFlexElite GitHub stats" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">Top Areas</h2>
+<br />
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Telegram</h3>
-      <p>Bots, channels, automation, and project updates around the SayaProject ecosystem.</p>
+      <h3 align="center">Telegram</h3>
+      <p align="center">Bots, channels, automation, and project updates for the SayaProject ecosystem.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>APIs</h3>
-      <p>Utility APIs, downloader services, music tooling, and backend experiments.</p>
+      <h3 align="center">APIs</h3>
+      <p align="center">Backend utilities, downloader services, music tooling, and fast experiments.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Support</h3>
-      <p>GitHub profile and technical support routed through IFlexElite.</p>
+      <h3 align="center">Support</h3>
+      <p align="center">GitHub support and technical routing through <a href="https://github.com/IFlexElite">IFlexElite</a>.</p>
     </td>
   </tr>
 </table>
 
----
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IFlexElite&theme=github_dark&hide_border=true&show_icons=true&rank_icon=github&bg_color=0D1117&title_color=F8FAFC&text_color=B7C4D8&icon_color=38BDF8" alt="IFlexElite GitHub stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IFlexElite&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=38BDF8&ring=A78BFA&fire=34D399&currStreakLabel=F8FAFC" alt="IFlexElite GitHub streak" width="49%" />
+</div>
+
+<br />
 
 <h2 align="center">Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/SayaProject"><img src="https://img.shields.io/badge/GITHUB-SayaProject-010409?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="SayaProject GitHub" /></a>
-  <a href="https://github.com/IFlexElite"><img src="https://img.shields.io/badge/SUPPORT-IFlexElite-010409?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="IFlexElite support" /></a>
-  <a href="https://t.me/SayaProject"><img src="https://img.shields.io/badge/CHANNEL-@SayaProject-010409?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" alt="Telegram channel" /></a>
-  <a href="https://t.me/Sayafq"><img src="https://img.shields.io/badge/DM-@Sayafq-010409?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" alt="Telegram DM" /></a>
+  <a href="https://github.com/SayaProject"><b>SayaProject</b></a> ·
+  <a href="https://github.com/IFlexElite"><b>IFlexElite</b></a> ·
+  <a href="https://t.me/SayaProject"><b>@SayaProject</b></a> ·
+  <a href="https://t.me/Sayafq"><b>@Sayafq</b></a>
 </p>
 
-> Code is never finished. It only becomes useful enough to ship, support, and improve.
+<p align="center">
+  <i>Build small, ship clean, support fast.</i>
+</p>
 
----
-
-<h2 align="center">Contribution</h2>
+<br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IFlexElite&theme=github-dark&hide_border=true&bg_color=0d1117&color=f0f6fc&line=f0f6fc&point=ffffff&area=true&area_color=8b949e" alt="IFlexElite contribution graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IFlexElite&theme=react-dark&hide_border=true&bg_color=0D1117&color=B7C4D8&line=38BDF8&point=34D399&area=true&area_color=A78BFA" alt="IFlexElite contribution graph" width="100%" />
 </div>
