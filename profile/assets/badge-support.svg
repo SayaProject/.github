@@ -1,0 +1,7 @@
+<svg width="220" height="46" viewBox="0 0 220 46" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub support IFlexElite">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="220" y2="46"><stop stop-color="#A78BFA"/><stop offset="1" stop-color="#F472B6"/></linearGradient></defs>
+  <rect x="1" y="1" width="218" height="44" rx="22" fill="#0D1117"/><rect x="1" y="1" width="218" height="44" rx="22" stroke="url(#g)" stroke-opacity="0.75"/>
+  <circle cx="26" cy="23" r="10" fill="#EAF6FF"/><path d="M26 14.7C21.3 14.7 17.5 18.5 17.5 23.2C17.5 27 20 30.2 23.4 31.3C23.8 31.4 24 31.1 24 30.8V29.1C21.6 29.6 21.1 28.1 21.1 28.1C20.7 27.1 20.1 26.8 20.1 26.8C19.3 26.2 20.2 26.2 20.2 26.2C21.1 26.3 21.6 27.2 21.6 27.2C22.4 28.6 23.8 28.2 24.1 28C24.2 27.4 24.4 27 24.7 26.8C22.8 26.6 20.8 25.8 20.8 22.6C20.8 21.7 21.1 20.9 21.7 20.3C21.6 20.1 21.3 19.2 21.8 18C21.8 18 22.5 17.8 24.1 18.9C24.7 18.7 25.4 18.6 26.1 18.6C26.8 18.6 27.5 18.7 28.1 18.9C29.7 17.8 30.4 18 30.4 18C30.9 19.2 30.6 20.1 30.5 20.3C31.1 20.9 31.4 21.7 31.4 22.6C31.4 25.8 29.4 26.6 27.5 26.8C27.9 27.1 28.2 27.7 28.2 28.6V30.8C28.2 31.1 28.4 31.4 28.8 31.3C32.2 30.2 34.7 27 34.7 23.2C34.5 18.5 30.7 14.7 26 14.7Z" fill="#0D1117"/>
+  <text x="48" y="20" fill="#8EA3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="800" letter-spacing="1.6">GITHUB SUPPORT</text>
+  <text x="48" y="34" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">IFlexElite</text>
+</svg>
