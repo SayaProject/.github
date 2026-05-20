@@ -2,11 +2,7 @@
   <img src="https://raw.githubusercontent.com/SayaProject/.github/main/profile/assets/saya-banner.svg" alt="SayaProject banner" width="100%" />
 </div>
 
-<p align="center">
-  <a href="https://t.me/SayaProject"><img src="https://raw.githubusercontent.com/SayaProject/.github/main/profile/assets/badge-telegram.svg" alt="Telegram @SayaProject" height="46" /></a>
-  <a href="https://t.me/Sayafq"><img src="https://raw.githubusercontent.com/SayaProject/.github/main/profile/assets/badge-contact.svg" alt="Contact @Sayafq" height="46" /></a>
-  <a href="https://github.com/IFlexElite"><img src="https://raw.githubusercontent.com/SayaProject/.github/main/profile/assets/badge-support.svg" alt="GitHub support IFlexElite" height="46" /></a>
-</p>
+
 
 <h2 align="center">Modern Telegram Tools, APIs, And Support</h2>
 
