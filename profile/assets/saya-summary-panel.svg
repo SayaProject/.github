@@ -1,0 +1,27 @@
+<svg width="610" height="210" viewBox="0 0 610 210" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">SayaProject focus panel</title>
+  <desc id="desc">A modern dark panel describing SayaProject focus areas.</desc>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="610" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.55" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="608" height="208" rx="26" fill="#0D1117"/>
+  <rect x="1" y="1" width="608" height="208" rx="26" stroke="url(#border)" stroke-opacity="0.55"/>
+  <circle cx="528" cy="42" r="70" fill="#22D3EE" fill-opacity="0.08"/>
+  <circle cx="574" cy="154" r="92" fill="#A78BFA" fill-opacity="0.07"/>
+  <text x="32" y="50" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">SayaProject Focus</text>
+  <text x="32" y="82" fill="#B7C4D8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">Telegram-first tools, bot utilities, API experiments, and support resources.</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">
+    <rect x="32" y="116" width="148" height="42" rx="21" fill="#020617" stroke="#22D3EE" stroke-opacity="0.45"/>
+    <text x="56" y="143" fill="#F8FAFC">Telegram</text>
+    <rect x="194" y="116" width="112" height="42" rx="21" fill="#020617" stroke="#34D399" stroke-opacity="0.45"/>
+    <text x="230" y="143" fill="#F8FAFC">APIs</text>
+    <rect x="320" y="116" width="126" height="42" rx="21" fill="#020617" stroke="#A78BFA" stroke-opacity="0.45"/>
+    <text x="354" y="143" fill="#F8FAFC">Bots</text>
+    <rect x="460" y="116" width="118" height="42" rx="21" fill="#020617" stroke="#F472B6" stroke-opacity="0.42"/>
+    <text x="490" y="143" fill="#F8FAFC">Support</text>
+  </g>
+</svg>
