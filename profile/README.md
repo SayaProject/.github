@@ -2,13 +2,11 @@
   <img src="https://raw.githubusercontent.com/SayaProject/.github/main/profile/assets/saya-banner.svg" alt="SayaProject banner" width="100%" />
 </div>
 
-
-
 <h2 align="center">Modern Telegram Tools, APIs, And Support</h2>
 
 <p align="center">
   SayaProject is the public home for Telegram-first projects, bot utilities, API experiments, and support resources.
-  Use the links above for the channel, direct contact, and GitHub support.
+  Use the official links on this page for the channel, direct contact, and GitHub support.
 </p>
 
 <br />
@@ -33,8 +31,8 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IFlexElite&theme=github_dark&hide_border=true&show_icons=true&rank_icon=github&bg_color=0D1117&title_color=F8FAFC&text_color=B7C4D8&icon_color=38BDF8" alt="IFlexElite GitHub stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IFlexElite&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=38BDF8&ring=A78BFA&fire=34D399&currStreakLabel=F8FAFC" alt="IFlexElite GitHub streak" width="49%" />
+  <img src="https://raw.githubusercontent.com/SayaProject/.github/main/profile/assets/saya-summary-panel.svg" alt="SayaProject focus panel" width="49%" />
+  <img src="https://raw.githubusercontent.com/SayaProject/.github/main/profile/assets/saya-support-panel.svg" alt="SayaProject support panel" width="49%" />
 </div>
 
 <br />
@@ -51,9 +49,3 @@
 <p align="center">
   <i>Build small, ship clean, support fast.</i>
 </p>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IFlexElite&theme=react-dark&hide_border=true&bg_color=0D1117&color=B7C4D8&line=38BDF8&point=34D399&area=true&area_color=A78BFA" alt="IFlexElite contribution graph" width="100%" />
-</div>
