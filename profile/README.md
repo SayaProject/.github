@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SayaProject/.github/main/profile/assets/saya-logo-banner.jpg" alt="SAYA logo banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/SayaProject/.github/main/profile/assets/saya-banner.png" alt="SayaProject banner" width="100%" />
 </div>
 
 <h2 align="center">Modern Telegram Tools, APIs, And Support</h2>
