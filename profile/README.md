@@ -28,12 +28,7 @@
   </tr>
 </table>
 
-<br />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SayaProject/.github/main/profile/assets/saya-summary-panel.svg" alt="SayaProject focus panel" width="49%" />
-  <img src="https://raw.githubusercontent.com/SayaProject/.github/main/profile/assets/saya-support-panel.svg" alt="SayaProject support panel" width="49%" />
-</div>
 
 <br />
 
