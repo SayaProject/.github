@@ -1,0 +1,25 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">SayaProject banner</title>
+  <desc id="desc">Dark monochrome SayaProject GitHub organization banner with Telegram and support links.</desc>
+  <rect width="1280" height="360" rx="18" fill="#07080d"/>
+  <rect x="22" y="22" width="1236" height="316" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <path d="M56 284 C170 236 248 318 354 270 C441 231 507 252 594 278 C712 314 796 214 908 247 C1041 286 1112 202 1224 247" stroke="#f0f6fc" stroke-opacity="0.14" stroke-width="3" fill="none"/>
+  <path d="M76 86 C154 46 220 52 286 86 C337 112 386 117 448 91 C526 57 606 44 704 69 C792 91 860 121 957 83 C1048 47 1135 51 1212 86" stroke="#f0f6fc" stroke-opacity="0.1" stroke-width="3" fill="none"/>
+  <g opacity="0.16">
+    <circle cx="107" cy="256" r="70" stroke="#f0f6fc" stroke-width="2"/>
+    <circle cx="1122" cy="113" r="88" stroke="#f0f6fc" stroke-width="2"/>
+    <path d="M1045 203 L1176 203" stroke="#f0f6fc" stroke-width="2"/>
+    <path d="M1110 138 L1110 268" stroke="#f0f6fc" stroke-width="2"/>
+  </g>
+  <text x="92" y="150" fill="#f0f6fc" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="700" letter-spacing="0">SayaProject</text>
+  <text x="96" y="196" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="24">Telegram-first projects, APIs, bots, and support.</text>
+  <rect x="96" y="232" width="218" height="40" rx="3" fill="#010409" stroke="#30363d"/>
+  <text x="121" y="258" fill="#f0f6fc" font-family="Consolas, 'Courier New', monospace" font-size="18">t.me/SayaProject</text>
+  <rect x="331" y="232" width="158" height="40" rx="3" fill="#010409" stroke="#30363d"/>
+  <text x="356" y="258" fill="#f0f6fc" font-family="Consolas, 'Courier New', monospace" font-size="18">@Sayafq</text>
+  <rect x="506" y="232" width="194" height="40" rx="3" fill="#010409" stroke="#30363d"/>
+  <text x="531" y="258" fill="#f0f6fc" font-family="Consolas, 'Courier New', monospace" font-size="18">IFlexElite</text>
+  <path d="M931 113 C972 63 1053 63 1093 116 C1119 151 1120 197 1098 233 C1068 282 999 292 957 254 C907 209 892 160 931 113Z" fill="#f0f6fc" fill-opacity="0.05" stroke="#f0f6fc" stroke-opacity="0.45" stroke-width="3"/>
+  <text x="968" y="196" fill="#f0f6fc" font-family="Georgia, 'Times New Roman', serif" font-size="86" font-weight="700">S</text>
+  <text x="1034" y="196" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="21">Project</text>
+</svg>
