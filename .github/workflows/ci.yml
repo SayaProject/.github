@@ -1,0 +1,28 @@
+name: CI
+
+on:
+  workflow_dispatch:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  profile-check:
+    name: Profile content check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate profile README and banner
+        run: |
+          test -f profile/README.md
+          test -f profile/assets/saya-banner.png
+          grep -q "SayaProject" profile/README.md
+          grep -q "https://t.me/SayaProject" profile/README.md
+          grep -q "https://t.me/Sayafq" profile/README.md
+          grep -q "https://github.com/IFlexElite" profile/README.md
