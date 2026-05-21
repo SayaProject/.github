@@ -37,7 +37,7 @@
 <p align="center">
     <a href="https://github.com/IFlexElite"><b>IFlexElite</b></a> ·
   <a href="https://t.me/SayaProject"><b>@SayaProject</b></a> ·
-  <a href="https://t.me/Sayafq"><b>@Sayafq</b></a>
+  <a href="https://t.me/Sayafq"><b>@Sayafaq</b></a>
 </p>
 
 <p align="center">
