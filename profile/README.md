@@ -2,10 +2,10 @@
   <img src="https://raw.githubusercontent.com/SayaProject/.github/main/profile/assets/saya-banner.png" alt="SayaProject banner" width="100%" />
 </div>
 
-<h2 align="center">Modern Telegram Tools, APIs, And Support</h2>
+<h2 align="center">SayaProject</h2>
 
 <p align="center">
-  SayaProject is the public home for Telegram-first projects, bot utilities, API experiments, and support resources.
+   Telegram-first projects, bot utilities, API experiments, and support resources.
   Use the official links on this page for the channel, direct contact, and GitHub support.
 </p>
 
@@ -23,19 +23,16 @@
     </td>
     <td width="33%" valign="top">
       <h3 align="center">Support</h3>
-      <p align="center">GitHub support and technical routing through <a href="https://github.com/IFlexElite">IFlexElite</a>.</p>
+      <p align="center">GitHub support and technical routing through <a href="https://github.com/shnwazdeveloper">Shnwazdevloper</a>.</p>
     </td>
   </tr>
 </table>
 
-
-
 <br />
-
 <h2 align="center">Connect</h2>
 
 <p align="center">
-    <a href="https://github.com/IFlexElite"><b>IFlexElite</b></a> ·
+    <a href="https://github.com/shnwazdeveloper"><b>shnwazdeveloper</b></a> ·
   <a href="https://t.me/SayaProject"><b>@SayaProject</b></a> ·
   <a href="https://t.me/Sayafq"><b>@Sayafaq</b></a>
 </p>
